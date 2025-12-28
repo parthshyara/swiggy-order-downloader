@@ -1,0 +1,6 @@
+node_modules
+session.json
+headers.json
+screenshots/
+orders.csv
+.DS_Store
